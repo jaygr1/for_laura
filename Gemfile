@@ -14,7 +14,6 @@ gem 'coffee-rails', '~> 4.1.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-gem 'bootstrap-sass', '~> 2.3.1.1'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
@@ -31,7 +30,7 @@ gem 'devise'
 
 gem 'bootswatch-rails'
 
-gem 'rails_12factor'
+# gem 'rails_12factor'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
